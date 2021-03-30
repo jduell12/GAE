@@ -1,0 +1,24 @@
+{
+  "name": "gae",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "server": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jduell12/GAE.git"
+  },
+  "author": "Jessica Duell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jduell12/GAE/issues"
+  },
+  "homepage": "https://github.com/jduell12/GAE#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
